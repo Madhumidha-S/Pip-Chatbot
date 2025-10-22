@@ -28,7 +28,7 @@ It features a clean web UI, persistent chat history per user session, and an opt
 ## Setup Instructions
 
 1. Clone the repository
-   `git clone https://github.com/yourusername/NLP-Chatbot.git`
+   `git clone https://github.com/Madhumidha-S/Pip-Chatbot`
 2. Create and activate a virtual environment
    `python3 -m venv venv`
    `source venv/bin/activate  # On Windows: venv\Scripts\activate`
